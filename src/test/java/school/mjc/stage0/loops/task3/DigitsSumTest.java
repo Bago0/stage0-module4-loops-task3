@@ -12,7 +12,8 @@ import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class DigitsSumTest extends BaseIOTest {
+class
+DigitsSumTest extends BaseIOTest {
 
     @Test
     void printDigitsSumPrintsSumWhenZeroes() {
